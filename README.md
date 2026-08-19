@@ -25,14 +25,14 @@ This chatbot responds to predefined questions related to Python and Artificial I
 2. Save the Python code in a file, for example:
 
 ```text
-faq_chatbot.py
+chatbot.py
 ```
 
 3. Open the terminal or command prompt.
 4. Run the following command:
 
 ```bash
-python faq_chatbot.py
+python chatbot.py
 ```
 
 ## 💬 Example
